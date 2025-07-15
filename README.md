@@ -31,7 +31,7 @@ A web-based object detection application built with **YOLOv5** and **Gradio**. U
 
 | Input | Output |
 |-------|--------|
-| ![](input.jpg) | ![](output.jpg) |
+| ![](input.png) | ![](output.webp) |
 
 ---
 
